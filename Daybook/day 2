@@ -1,0 +1,3 @@
+*implemented register file , opcode control unit , immediate generator - sw , lw , beq , addi
+
+*understand the opcode and the control signals which tells the processor what to do for this instructions 
